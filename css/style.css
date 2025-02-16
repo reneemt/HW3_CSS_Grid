@@ -112,9 +112,9 @@ first div in the grid  and place it in the grid. */
 
  /* Step 8: Write the selector/rule property to style the .text-block class. */
  .text-block {
-     background-color: #ffffffcc;
-     padding: 20px;
-     border: 2px solid #000000;
+     background-color: rgba(255, 255, 255, 0.8);
+     padding: 30px;
+     border: 10px solid #000000;
      width: 80%;
      text-align: center;
      place-self: center;
